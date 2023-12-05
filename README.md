@@ -6,6 +6,8 @@ This project conducts exploratory data analysis on a dataset comprising 299 Tele
 
 The dataset was collected by Kate Burovova (kate.burovova@gmail.com), and due to data sensitivity, it cannot be shared directly within this repository. However, you are encouraged to reach out to the author to obtain the dataset if you need to use it. In the provided Jupyter notebook, I work with a merged dataframe, combining messages from each channel present in the dataset.
 
+Additionally, if you wish to understand some of the meanings within the dataset, don't forget to use a translator.
+
 ## Project Structure
 
 - **Data Analysis Notebook:** The core of the project is in the Jupyter notebook (`RPTG_eda.ipynb`). This notebook contains the Python code for exploratory data analysis.
