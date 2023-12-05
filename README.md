@@ -43,8 +43,6 @@ For any inquiries or additional information, please contact me:
 
 ## Acknowledgments
 
-## Acknowledgments
-
 Special thanks to **Kate Burovova** (kate.burovova@gmail.com) for providing the dataset and enabling this exploratory analysis. 
 
 Another big thanks to **Andrew Kurochkin** (https://github.com/SanGreel) for conducting the course on Computational Social Science, making this project possible.
