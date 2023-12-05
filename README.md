@@ -26,7 +26,7 @@ pip install pandas matplotlib seaborn nltk stop-words tqdm textblob scikit-learn
 To replicate the analysis or modify the notebook for your needs, follow these steps:
 1. Clone the Repository:
   ```bash
-  git clone https://github.com/your_username/your_project.git
+  git clone https://github.com/madam6/Russian-propaganda-telegram-channels-EDA
   ```
 2. Install Dependencies.
 
